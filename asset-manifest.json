@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/montsers-rolodexx/static/css/main.98b457d2.chunk.css",
+    "main.js": "/montsers-rolodexx/static/js/main.68ff57f9.chunk.js",
+    "main.js.map": "/montsers-rolodexx/static/js/main.68ff57f9.chunk.js.map",
+    "runtime-main.js": "/montsers-rolodexx/static/js/runtime-main.9460e75d.js",
+    "runtime-main.js.map": "/montsers-rolodexx/static/js/runtime-main.9460e75d.js.map",
+    "static/js/2.7aaef059.chunk.js": "/montsers-rolodexx/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/montsers-rolodexx/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/montsers-rolodexx/index.html",
+    "precache-manifest.4d6a739fe898c6312721f6ff26e4ec34.js": "/montsers-rolodexx/precache-manifest.4d6a739fe898c6312721f6ff26e4ec34.js",
+    "service-worker.js": "/montsers-rolodexx/service-worker.js",
+    "static/css/main.98b457d2.chunk.css.map": "/montsers-rolodexx/static/css/main.98b457d2.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/montsers-rolodexx/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9460e75d.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.98b457d2.chunk.css",
+    "static/js/main.68ff57f9.chunk.js"
+  ]
+}
